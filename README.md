@@ -1,7 +1,8 @@
 # Text-Statistics
 Simple library to compute text statistics.
 
-In order to run it open terminal on Linux, or powershell on Windows and type: python TextReader.py <filename>
+In order to run it open terminal on Linux using: python TextReader.py \<filename\> 
+Alternatively run it using powershell on Windows using: python .\TextReader.py \<filename\> 
 
 The file computes the following statistics:
 - word count 
